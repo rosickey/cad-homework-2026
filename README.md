@@ -1,5 +1,7 @@
 # 电子线路 CAD 课程作业提交说明（学生版）
 
+最后修改：dahang 20230211
+
 课程仓库：<https://github.com/rosickey/cad-homework-2026>
 
 本课程使用 GitHub Pull Request（PR）提交作业。每位同学固定使用自己的：
