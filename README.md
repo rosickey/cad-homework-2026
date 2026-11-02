@@ -52,6 +52,7 @@
 
 ## [第一次作业](https://github.com/rosickey/cad-homework-2026/tree/main/assignments/HW01)
 
+## [第二次作业](https://github.com/rosickey/cad-homework-2026/tree/main/assignments/HW02)
 
 
 ## 一、Windows 准备工作
