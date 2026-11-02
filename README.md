@@ -50,6 +50,9 @@
 | 240201444 | 汪岸陆 | 2402014 |
 | 240201446 | 王子懿 | 2402014 |
 
+## [第一次作业](https://github.com/rosickey/cad-homework-2026/tree/main/assignments/HW01)
+
+
 
 ## 一、Windows 准备工作
 
