@@ -351,7 +351,7 @@ GitHub 用户名 ↔ 学号 ↔ 学号分支 ↔ 学号目录
 
 ### 1. 同步教师仓库
 
-先在本地 `cad-homework-2026` 文件夹中打开 Git Bash，再执行以下命令。如果终端当前位于该文件夹的上一级，先执行 `cd cad-homework-2026`；已经在仓库内时不需要重复执行 `cd`。
+先在本地 `cad-homework-2026` 文件夹下打开 Git(鼠标右键在文件夹下打开git bash) Bash，再执行以下命令。注意bash文件路径始终为 cad-homework-2026文件夹下
 
 ```bash
 git status
@@ -371,6 +371,8 @@ git merge --no-edit upstream/main
 ```bash
 mkdir -p students/240201101/HW01
 ```
+
+鼠标在本地电脑操作，将作业文件复制到该文件夹下students/240201101/HW01
 
 本次 **HW01 只需将从 Proteus 导出的原理图 PDF** 放入该目录，文件名为 `240201101_HW01.pdf`。不要把本地 Proteus 工程、自动备份和临时文件一并复制到提交目录中。
 

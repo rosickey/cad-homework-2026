@@ -42,4 +42,4 @@ students/240201101/HW02/240201101_HW02.pdf
 [240201101] HW02 - 王明
 ```
 
-请替换为自己的学号和姓名。Git 操作见下文“三、提交电子线路 CAD 作业”。
+请替换为自己的学号和姓名。Git 操作见下文[三、提交电子线路 CAD 作业](https://github.com/rosickey/cad-homework-2026#%E4%B8%89%E6%8F%90%E4%BA%A4%E7%94%B5%E5%AD%90%E7%BA%BF%E8%B7%AF-cad-%E4%BD%9C%E4%B8%9A)。
