@@ -21,7 +21,7 @@
 
 ## [第一次提交](https://github.com/rosickey/cad-homework-2026#%E4%B8%80windows-%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C)
 
-> [第一次提交成绩](https://github.com/rosickey/cad-homework-2026/tree/main/grades)
+> [第一次提交成绩](https://github.com/rosickey/cad-homework-2026/tree/main/grades/registration-grades.md)
 
 # 以下同学未提交
 
