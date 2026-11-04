@@ -19,12 +19,9 @@
 
 本文中的 Windows 命令均在 **Git Bash** 中执行。除非教师特别说明，不要把命令直接输入 Windows 的 CMD。
 
-## 第一次提交没有通过的同学，请尽快修改（所有同学先完成第一次提交，作业之后再交）
+## [第一次提交](https://github.com/rosickey/cad-homework-2026#%E4%B8%80windows-%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C)
 
-# CAD 学生注册 PR 错误处理简表
-
-| PR | 学号 | 姓名 | 原因 |
-| --- | --- | --- | --- |
+> [第一次提交成绩](https://github.com/rosickey/cad-homework-2026/tree/main/grades)
 
 # 以下同学未提交
 
@@ -35,6 +32,7 @@
 | 240201438 | 陈俊杰 | 2402014 |
 | 240201443 | 卢同乐 | 2402014 |
 | 240201444 | 汪岸陆 | 2402014 |
+
 
 ## [第一次作业](https://github.com/rosickey/cad-homework-2026/tree/main/assignments/HW01)
 
