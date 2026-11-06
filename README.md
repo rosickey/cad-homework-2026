@@ -38,7 +38,7 @@
 
 ## [第二次作业](https://github.com/rosickey/cad-homework-2026/tree/main/assignments/HW02)
 
-## 未通过的 PR
+## 未通过的 PR （注意文件名，特别是**后缀名**的大小写）
 
 | PR | 学号 | 姓名 | 作业 | 原因 |
 | --- | --- | --- | --- | --- |
