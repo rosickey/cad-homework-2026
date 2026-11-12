@@ -23,20 +23,15 @@
 
 > [第一次提交成绩](https://github.com/rosickey/cad-homework-2026/tree/main/grades/registration-grades.md)
 
-# 以下同学未提交
-
-| 学号 | 姓名 | 班级 |
-| --- | --- | --- |
-| 240201402 | 牛忻雅 | 2402014 |
-| 240201426 | 胡硕鸿 | 2402014 |
-| 240201438 | 陈俊杰 | 2402014 |
-| 240201443 | 卢同乐 | 2402014 |
-| 240201444 | 汪岸陆 | 2402014 |
-
-
 ## [第一次作业](https://github.com/rosickey/cad-homework-2026/tree/main/assignments/HW01)
 
+> [HW01成绩](https://github.com/rosickey/cad-homework-2026/tree/main/grades/HW01-grades.md)
+
 ## [第二次作业](https://github.com/rosickey/cad-homework-2026/tree/main/assignments/HW02)
+
+> [HW02成绩](https://github.com/rosickey/cad-homework-2026/tree/main/grades/HW02-grades.md)
+
+## [第三次作业](https://github.com/rosickey/cad-homework-2026/tree/main/assignments/HW03)
 
 
 ## 一、Windows 准备工作
