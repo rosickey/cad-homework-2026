@@ -19,31 +19,22 @@
 
 本文中的 Windows 命令均在 **Git Bash** 中执行。除非教师特别说明，不要把命令直接输入 Windows 的 CMD。
 
-## 第一次提交没有通过的同学，请尽快修改（所有同学先完成第一次提交，作业之后再交）
+## [第一次提交](https://github.com/rosickey/cad-homework-2026#%E4%B8%80windows-%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C)
 
-# CAD 学生注册 PR 错误处理简表
-
-| PR | 学号 | 姓名 | 原因 |
-| --- | --- | --- | --- |
-
-# 以下同学未提交
-
-| 学号 | 姓名 | 班级 |
-| --- | --- | --- |
-| 240201133 | 肖焜 | 2402011 |
-| 240201402 | 牛忻雅 | 2402014 |
-| 240201415 | 江灿 | 2402014 |
-| 240201423 | 刘海旭 | 2402014 |
-| 240201426 | 胡硕鸿 | 2402014 |
-| 240201438 | 陈俊杰 | 2402014 |
-| 240201443 | 卢同乐 | 2402014 |
-| 240201444 | 汪岸陆 | 2402014 |
-| 240201446 | 王子懿 | 2402014 |
+> [第一次提交成绩](https://github.com/rosickey/cad-homework-2026/tree/main/grades/registration-grades.md)
 
 ## [第一次作业](https://github.com/rosickey/cad-homework-2026/tree/main/assignments/HW01)
 
+> [HW01成绩](https://github.com/rosickey/cad-homework-2026/tree/main/grades/HW01-grades.md)
+
 ## [第二次作业](https://github.com/rosickey/cad-homework-2026/tree/main/assignments/HW02)
 
+> [HW02成绩](https://github.com/rosickey/cad-homework-2026/tree/main/grades/HW02-grades.md)
+
+
+## [第三次作业](https://github.com/rosickey/cad-homework-2026/tree/main/assignments/HW03)
+
+> [HW03成绩](https://github.com/rosickey/cad-homework-2026/tree/main/grades/HW03-grades.md)
 
 ## 一、Windows 准备工作
 
